@@ -1,3 +1,2 @@
 # exercise-repo1
-
-dawuywofawf
+gitbash sucks
